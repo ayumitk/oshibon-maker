@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "oshibon-maker-45160"
+  },
+  "targets": {
+    "oshibon-maker-45160": {
+      "hosting": {
+        "storybook": [
+          "oshibon-maker-storybook"
+        ],
+        "app": [
+          "oshibon-maker-45160"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
