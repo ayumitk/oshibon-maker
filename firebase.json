@@ -15,7 +15,7 @@
   },
   "hosting": [
     {
-      "target": "app",
+      "target": "default",
       "public": "dist",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
       "rewrites": [
